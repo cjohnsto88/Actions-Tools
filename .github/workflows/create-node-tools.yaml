@@ -1,4 +1,5 @@
 name: Upload Node 18 tool cache
+on:
 jobs:
   upload_tool_cache:
     runs-on: ubuntu-22.04
